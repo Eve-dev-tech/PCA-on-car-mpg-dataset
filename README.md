@@ -2,10 +2,7 @@
 In this project I aim to generate and visualize the PCA for auto-mpg dataset and extract insights
 
 
------------------------------
 
-
------------------------------
 ## Dataset: 
 -----------------------------
 There are 8 variables in the data: 
