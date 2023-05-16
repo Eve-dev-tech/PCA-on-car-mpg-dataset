@@ -1,13 +1,9 @@
 # PCA-on-car-mpg-dataset
-In this project we aim to generate and visualize the PCA for auto-mpg dataset and extract insights
+In this project I aim to generate and visualize the PCA for auto-mpg dataset and extract insights
 
 
 -----------------------------
-## Practice Case study: PCA 
 
------------------------------
-
-Welcome to the Practice Case on PCA. In this project, we aim to generate and visualize the PCA for auto-mpg dataset and extract insights.
 
 -----------------------------
 ## Dataset: 
